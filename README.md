@@ -1,6 +1,5 @@
 # Flocking
 Simulation of flocking birds, use your mouse as a predator (Processing)
-
 a,A - Switch to attraction mode (for when mouse is held down).
 r,R - Switch to repulsion mode (for when mouse is held down).
 s,S - Cause all creatures to be instantly scattered to random positions in the window.
