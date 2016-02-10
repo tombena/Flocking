@@ -1,5 +1,5 @@
 # Flocking
-Simulation of flocking birds, use your mouse as a predator (Processing)
+Simulation of flocking birds, use your mouse as a predator or prey (Processing)
 
 - a,A - Switch to attraction mode (for when mouse is held down).
 - r,R - Switch to repulsion mode (for when mouse is held down).
